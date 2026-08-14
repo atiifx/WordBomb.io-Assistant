@@ -1,34 +1,40 @@
-# 🚀 WordBomb VIP Assistant
+### 🇹🇷 Türkçe / 🇬🇧 English
 
-<p align="center">
-  <b>Python ve CustomTkinter ile geliştirilmiş, yapay zeka destekli otonom WordBomb oyun asistanı.</b>
-</p>
+#### 🚀 WordBomb VIP Assistant v1.0.0
 
 ---
 
-## ✨ Özellikler
+#### 🇹🇷 Türkçe Açıklama
+WordBomb oyun deneyiminizi bir üst seviyeye taşıyan, yapay zeka destekli otonom asistan!
 
-* **Otonom Ekran Tarayıcı (EasyOCR):** Oyun ekranındaki heceleri ve sıranı yapay zeka ile otomatik algılar.
-* **İnsansı Yazma Motoru (Humanoid Writer):** Gerçek bir insan gibi rastgele gecikmelerle ve hata simülasyonlarıyla yazar.
-* **Gelişmiş Sözlük Yönetimi:** Türkçe, İngilizce ve Portekizce dillerinde binlerce kelime desteği ve akıllı filtreleme.
-* **Gizli Mod (Stealth Engine):** Hızlı kısayollarla arayüzü gizleme ve yönetme.
-* **Uzaktan Lisans ve Otomatik Güncelleme:** FastAPI tabanlı sunucu altyapısı ile lisans doğrulama ve otonom güncelleme sistemi.
+**✨ Özellikler:**
+* **Otonom Ekran Tarayıcı (EasyOCR):** Oyun ekranındaki heceleri ve sıranızı otomatik olarak algılar.
+* **İnsansı Yazma Motoru:** Gerçek bir insan gibi rastgele gecikmelerle ve hata simülasyonlarıyla yazar.
+* **Gelişmiş Sözlük Yönetimi:** Türkçe, İngilizce ve Portekizce dillerinde akıllı kelime filtreleme desteği.
+* **Gizli Mod (Stealth Engine):** Hızlı kısayollarla arayüzü gizleme ve yönetme imkanı.
 
----
-
-## 🛠️ Kullanılan Teknolojiler
-
-* **Python 3.10+**
-* **CustomTkinter** (Modern UI)
-* **EasyOCR & PyTorch** (Görüntü İşleme)
-* **MSS & OpenCV** (Ekran Yakalama)
-* **FastAPI** (Lisans ve Güncelleme Sunucusu)
+**📥 Kurulum ve Kullanım Talimatı:**
+1. **İndirin:** Aşağıdaki **Assets** bölümünden **`WordBomb.exe`** dosyasına tıklayarak bilgisayarınıza indirin.
+2. **Klasör:** İndirdiğiniz `.exe` dosyasını boş bir klasöre taşıyın.
+3. **Çalıştırın:** `WordBomb.exe` dosyasını çalıştırın.
+4. **Lisans:** Karşınıza çıkan VIP lisans ekranına size verilen anahtarı girerek giriş yapın.
 
 ---
 
-## ⚙️ Kurulum ve Çalıştırma
+#### 🇬🇧 English Description
+An AI-powered autonomous WordBomb assistant that takes your gaming experience to the next level!
 
-1. Projeyi klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/wordbomb-assistant.git](https://github.com/KULLANICI_ADINIZ/wordbomb-assistant.git)
-   cd wordbomb-assistant
+**✨ Features:**
+* **Autonomous Screen Scanner (EasyOCR):** Automatically detects syllables and turns on your game screen.
+* **Humanoid Typing Engine:** Types like a real human with randomized delays and typo simulations.
+* **Advanced Dictionary Management:** Smart word filtering support for Turkish, English, and Portuguese.
+* **Stealth Mode:** Easily hide and manage the interface with quick shortcuts.
+
+**📥 Installation & Usage Instructions:**
+1. **Download:** Download the **`WordBomb.exe`** file from the **Assets** section below.
+2. **Directory:** Place the downloaded `.exe` file into a dedicated empty folder.
+3. **Run:** Launch `WordBomb.exe`.
+4. **License:** Enter your assigned VIP license key on the verification screen to log in.
+
+---
+*Created with ❤️ by **atii***
