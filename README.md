@@ -1,3 +1,4 @@
+<img width="367" height="270" alt="Ekran görüntüsü 2026-08-14 123417" src="https://github.com/user-attachments/assets/ca8a5210-5cd2-4d6f-a2a9-ffcff223952b" />
 ### 🇹🇷 Türkçe / 🇬🇧 English
 
 #### 🚀 WordBomb VIP Assistant v1.0.0
