@@ -14,7 +14,7 @@ WordBomb oyun deneyiminizi bir üst seviyeye taşıyan, yapay zeka destekli oton
 * **Gizli Mod (Stealth Engine):** Hızlı kısayollarla arayüzü gizleme ve yönetme imkanı.
 
 **📥 Kurulum ve Kullanım Talimatı:**
-1. **İndirin:** Aşağıdaki **Assets** bölümünden **`WordBomb.exe`** dosyasına tıklayarak bilgisayarınıza indirin.
+1. **İndirin:** Bu sayfanın sağ tarafında yer alan **Releases** sekmesine gidin ve en son sürümden **`WordBomb.exe`** dosyasını bilgisayarınıza indirin.
 2. **Klasör:** İndirdiğiniz `.exe` dosyasını boş bir klasöre taşıyın.
 3. **Çalıştırın:** `WordBomb.exe` dosyasını çalıştırın.
 4. **Lisans:** Karşınıza çıkan VIP lisans ekranına size verilen anahtarı girerek giriş yapın.
@@ -31,7 +31,7 @@ An AI-powered autonomous WordBomb assistant that takes your gaming experience to
 * **Stealth Mode:** Easily hide and manage the interface with quick shortcuts.
 
 **📥 Installation & Usage Instructions:**
-1. **Download:** Download the **`WordBomb.exe`** file from the **Assets** section below.
+1. **Download:** Go to the **Releases** section on the right side of this page and download the **`WordBomb.exe`** file from the latest release.
 2. **Directory:** Place the downloaded `.exe` file into a dedicated empty folder.
 3. **Run:** Launch `WordBomb.exe`.
 4. **License:** Enter your assigned VIP license key on the verification screen to log in.
