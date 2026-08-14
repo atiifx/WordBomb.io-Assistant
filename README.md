@@ -1,5 +1,5 @@
 <p align="center">
-<img width="600" height="270" alt="Ekran görüntüsü 2026-08-14 123417" src="https://github.com/user-attachments/assets/ca8a5210-5cd2-4d6f-a2a9-ffcff223952b" />
+<img width="600" height="550" alt="Ekran görüntüsü 2026-08-14 123417" src="https://github.com/user-attachments/assets/ca8a5210-5cd2-4d6f-a2a9-ffcff223952b" />
 </p>
 
 ### 🇹🇷 Türkçe / 🇬🇧 English
