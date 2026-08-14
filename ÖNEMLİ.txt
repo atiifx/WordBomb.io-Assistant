@@ -1,0 +1,11 @@
+EXE YAPMA;
+
+# 1. Temizle
+Remove-Item -Recurse -Force dist_obf, build, dist, *.spec -ErrorAction SilentlyContinue
+
+# 2. Şifrele
+py -m pyarmor.cli gen -O dist_obf --recursive core utils main.py
+
+# 3. Derle
+py -m PyInstaller --noconfirm --onedir --windowed --icon="wbs.ico" --paths="dist_obf" --add-data "wbs.ico;." --add-data "dist_obf/core;core" --add-data "dist_obf/utils;utils" --add-data "dist_obf/pyarmor_runtime_000000;pyarmor_runtime_000000" --collect-all pygetwindow --collect-all pyrect --collect-all mss --collect-all easyocr --collect-all torch --collect-all torchvision --collect-all pynput --collect-all keyboard --collect-all requests --collect-all customtkinter --collect-all PIL --hidden-import="win32gui" --hidden-import="win32con" --hidden-import="win32api" --name "WordBomb" dist_obf/main.py
+py -m PyInstaller --noconfirm --onefile --windowed --icon="wbs.ico" --paths="dist_obf" --add-data "wbs.ico;." --add-data "dist_obf/core;core" --add-data "dist_obf/utils;utils" --add-data "dist_obf/pyarmor_runtime_000000;pyarmor_runtime_000000" --collect-all pygetwindow --collect-all pyrect --collect-all mss --collect-all easyocr --collect-all torch --collect-all torchvision --collect-all pynput --collect-all keyboard --collect-all requests --collect-all customtkinter --collect-all PIL --hidden-import="win32gui" --hidden-import="win32con" --hidden-import="win32api" --name "WordBomb" dist_obf/main.py
