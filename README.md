@@ -49,7 +49,6 @@
 * **F1:** Fast Mode (Short words)
 * **F2:** Optimal Mode (Balanced words)
 * **F3:** Showcase Mode (Long & rare words)
-* **F4:** Add last used word to temporary blacklist
 
 **📥 Installation & Usage Guide:**
 1. **Download:** Navigate to the **Releases** section on the right side of this repository and download **`WordBomb.exe`**.
