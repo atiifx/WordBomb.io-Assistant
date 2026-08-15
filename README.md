@@ -1,5 +1,5 @@
 <p align="center">
-<img width="367" height="270" alt="Ekran görüntüsü 2026-08-14 123417" src="https://github.com/user-attachments/assets/ca8a5210-5cd2-4d6f-a2a9-ffcff223952b" />
+<img width="369" height="209" alt="Ekran görüntüsü 2026-08-15 193242" src="https://github.com/user-attachments/assets/d6baa4c8-6986-446f-a629-a2655155e515" />
 </p>
 
 ### 🇹🇷 Türkçe / 🇬🇧 English
@@ -9,36 +9,53 @@
 ---
 
 #### 🇹🇷 Türkçe Açıklama
-WordBomb oyun deneyiminizi bir üst seviyeye taşıyan, yapay zeka destekli otonom asistan!
+**WordBomb VIP Assistant**, gelişmiş kelime bulma algoritması, dinamik yazma motoru ve bulut lisans altyapısıyla oyun deneyiminizi zirveye taşımak için tasarlandı.
 
-**✨ Özellikler:**
-* **Otonom Ekran Tarayıcı (EasyOCR):** Oyun ekranındaki heceleri ve sıranızı otomatik olarak algılar.
-* **İnsansı Yazma Motoru:** Gerçek bir insan gibi rastgele gecikmelerle ve hata simülasyonlarıyla yazar.
-* **Gelişmiş Sözlük Yönetimi:** Türkçe, İngilizce ve Portekizce dillerinde akıllı kelime filtreleme desteği.
-* **Gizli Mod (Stealth Engine):** Hızlı kısayollarla arayüzü gizleme ve yönetme imkanı.
+**✨ Öne Çıkan Özellikler:**
+* **Akıllı Kelime Motoru:** Girilen heceye göre anında en uygun kelimeleri listeler ve kullanılır.
+* **İnsansı Yazma Simülasyonu:** Doğal tuş vuruş gecikmeleri, değişken WPM hızları ve gerçekçi hata (typo) simülasyonu ile tamamen insan benzeri yazım davranışı sergiler.
+* **3 Farklı Dil Desteği:** Türkçe (TR), İngilizce (EN) ve Portekizce (PT) genişletilmiş kelime hazneleri.
+* **Çoklu Oyun & Uzunluk Modları:** Orijinal ve Zincir Kelime modlarının yanı sıra *Hızlı (F1)*, *Optimal (F2)* ve *Şov (F3)* stratejileri.
+* **Alfabe & Eksik Harf Takibi:** Kalan eksik harflerinizi gerçek zamanlı takip eder ve alfabeyi tamamlamaya yönelik kelimeleri önceliklendirir.
+* **Otomatik Odaklama & Hedef Platform:** Chrome, Discord ve Discord Canary gibi pencereleri otomatik odaklar.
+* **Dinamik Güncelleme & Canlı Lisans Altyapısı:** Dahili otomatik güncelleme sistemi ve kesintisiz HWID güvenlik doğrulaması.
+
+**⌨️ Kısayol Tuşları:**
+* **F1:** Hızlı Kelime Modu (Kısa kelimeler)
+* **F2:** Optimal Kelime Modu (Dengeli kelimeler)
+* **F3:** Şov Modu (Uzun ve nadir kelimeler)
 
 **📥 Kurulum ve Kullanım Talimatı:**
-1. **İndirin:** Bu sayfanın sağ tarafında yer alan **Releases** sekmesine gidin ve en son sürümden **`WordBomb.exe`** dosyasını bilgisayarınıza indirin.
-2. **Klasör:** İndirdiğiniz `.exe` dosyasını boş bir klasöre taşıyın.
-3. **Çalıştırın:** `WordBomb.exe` dosyasını çalıştırın.
-4. **Lisans:** Karşınıza çıkan lisans ekranına size verilen anahtarı girerek giriş yapın.
+1. **İndirin:** Bu sayfanın sağındaki **Releases** sekmesine gidin ve en güncel sürümden **`WordBomb.exe`** dosyasını indirin.
+2. **Klasörleme:** İndirdiğiniz dosyayı istediğiniz herhangi bir klasöre taşıyın.
+3. **Başlatın:** `WordBomb.exe` uygulamasını çift tıklayarak çalıştırın.
+4. **Lisans Doğrulama:** Açılan giriş paneline size iletilen lisans anahtarını yapıştırın ve **Giriş Yap** butonuna tıklayın.
 
 ---
 
 #### 🇬🇧 English Description
-An AI-powered autonomous WordBomb assistant that takes your gaming experience to the next level!
+**WordBomb VIP Assistant** is engineered to elevate your WordBomb gaming experience with an advanced word-finding engine, dynamic typing simulation, and cloud-backed license management.
 
-**✨ Features:**
-* **Autonomous Screen Scanner (EasyOCR):** Automatically detects syllables and turns on your game screen.
-* **Humanoid Typing Engine:** Types like a real human with randomized delays and typo simulations.
-* **Advanced Dictionary Management:** Smart word filtering support for Turkish, English, and Portuguese.
-* **Stealth Mode:** Easily hide and manage the interface with quick shortcuts.
+**✨ Key Features:**
+* **Smart Word Finder:** Instantly filters and identifies the most optimal words based on the active syllable.
+* **Humanoid Typing Engine:** Mimics genuine human keystrokes with randomized latency, variable WPM speeds, and natural error/typo simulation.
+* **Multi-Language Support:** Comprehensive, cloud-synced dictionaries for Turkish (TR), English (EN), and Portuguese (PT).
+* **Multiple Game & Length Modes:** Supports Standard and Word-Chain rules alongside *Fast (F1)*, *Optimal (F2)*, and *Showcase (F3)* playstyles.
+* **Alphabet & Missing Letter Tracker:** Tracks remaining letters in real time and prioritizes words that help finish the alphabet bonus.
+* **Auto-Focus Target Window:** Automatically brings target game windows (Chrome, Discord, Discord Canary) into focus before typing.
+* **Built-in Auto Updater & Cloud Security:** In-app percentage updater and secure HWID-bound license authentication.
 
-**📥 Installation & Usage Instructions:**
-1. **Download:** Go to the **Releases** section on the right side of this page and download the **`WordBomb.exe`** file from the latest release.
-2. **Directory:** Place the downloaded `.exe` file into a dedicated empty folder.
-3. **Run:** Launch `WordBomb.exe`.
-4. **License:** Enter your assigned license key on the verification screen to log in.
+**⌨️ Hotkeys:**
+* **F1:** Fast Mode (Short words)
+* **F2:** Optimal Mode (Balanced words)
+* **F3:** Showcase Mode (Long & rare words)
+* **F4:** Add last used word to temporary blacklist
+
+**📥 Installation & Usage Guide:**
+1. **Download:** Navigate to the **Releases** section on the right side of this repository and download **`WordBomb.exe`**.
+2. **Folder:** Place the `.exe` file in any folder of your choice.
+3. **Launch:** Run `WordBomb.exe`.
+4. **Authenticate:** Paste your assigned license key into the prompt and click **Login** to start.
 
 ---
 *Created with ❤️ by **atii***
