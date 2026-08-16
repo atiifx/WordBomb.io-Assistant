@@ -1,6 +1,6 @@
 <p align="center">
 <img width="369" height="209" alt="Ekran görüntüsü 2026-08-15 193242" src="https://github.com/user-attachments/assets/d6baa4c8-6986-446f-a629-a2655155e515"/>
-  <img width="369" height="209" alt="Ekran görüntüsü 2026-08-15 193242" src="https://github.com/user-attachments/assets/d6baa4c8-6986-446f-a629-a2655155e515"/>
+<img width="366" height="208" alt="Screenshot 2026-08-16 155526" src="https://github.com/user-attachments/assets/d42b3f58-d852-48ea-8871-ee7df8983420" />
 </p>
 
 <div align="center">
