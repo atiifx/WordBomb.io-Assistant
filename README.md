@@ -1,8 +1,6 @@
 <p align="center">
-<img width="369" height="209" alt="Ekran görüntüsü 2026-08-15 193242" src="https://github.com/user-attachments/assets/d6baa4c8-6986-446f-a629-a2655155e515" />
+<img width="369" height="209" alt="Ekran görüntüsü 2026-08-15 193242" src="https://github.com/user-attachments/assets/d6baa4c8-6986-446f-a629-a2655155e515 https://www.youtube.com/watch?v=0lzLGY8Q-1U"/>
 </p>
-
-https://www.youtube.com/watch?v=0lzLGY8Q-1U
 
 <div align="center">
 
