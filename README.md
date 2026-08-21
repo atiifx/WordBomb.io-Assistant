@@ -71,4 +71,5 @@ https://www.youtube.com/watch?v=0lzLGY8Q-1U
 4. Turn on **AUTO** mode to relax, or simply click on any suggested word to play!
 
 ---
+💬 **Discord Destek / Support:** `fdsaqwex`  
 *Created with ❤️ by **atii***
