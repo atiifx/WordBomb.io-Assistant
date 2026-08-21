@@ -1,6 +1,6 @@
 <p align="center">
-<img width="369" height="209" alt="Ekran görüntüsü 2026-08-15 193242" src="https://github.com/user-attachments/assets/d6baa4c8-6986-446f-a629-a2655155e515"/>
-<img width="366" height="208" alt="Screenshot 2026-08-16 155526" src="https://github.com/user-attachments/assets/d42b3f58-d852-48ea-8871-ee7df8983420" />
+<img width="369" height="208" alt="Ekran görüntüsü 2026-08-21 095236" src="https://github.com/user-attachments/assets/97d4e35c-57cc-43be-9706-dd6bfeaa8e17" />
+<img width="365" height="211" alt="Ekran görüntüsü 2026-08-21 095823" src="https://github.com/user-attachments/assets/cff9d297-2f02-4d64-967c-3fbac8e3b7ca" />
 </p>
 
 <div align="center">
