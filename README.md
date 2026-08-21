@@ -18,57 +18,57 @@ https://www.youtube.com/watch?v=0lzLGY8Q-1U
 
 ### 🇹🇷 Türkçe / 🇬🇧 English
 
-#### 🚀 WordBomb VIP Assistant v1.0.0
+#### 🚀 WordBomb VIP Assistant
 
 ---
 
 #### 🇹🇷 Türkçe Açıklama
-**WordBomb VIP Assistant**, gelişmiş kelime bulma algoritması, dinamik yazma motoru ve bulut lisans altyapısıyla oyun deneyiminizi zirveye taşımak için tasarlandı.
+**WordBomb VIP Assistant**, oyununuzu otomatikleştirip her turda en doğru kelimeleri sizin yerinize yazan veya öneren akıllı bir yardımcı yazılımdır.
 
 **✨ Öne Çıkan Özellikler:**
-* **Akıllı Kelime Motoru:** Girilen heceye göre anında en uygun kelimeleri listeler ve kullanılır.
-* **İnsansı Yazma Simülasyonu:** Doğal tuş vuruş gecikmeleri, değişken WPM hızları ve gerçekçi hata (typo) simülasyonu ile tamamen insan benzeri yazım davranışı sergiler.
-* **3 Farklı Dil Desteği:** Türkçe (TR), İngilizce (EN) ve Portekizce (PT) genişletilmiş kelime hazneleri.
-* **Çoklu Oyun & Uzunluk Modları:** Orijinal ve Zincir Kelime modlarının yanı sıra *Hızlı (F1)*, *Optimal (F2)* ve *Şov (F3)* stratejileri.
-* **Alfabe & Eksik Harf Takibi:** Kalan eksik harflerinizi gerçek zamanlı takip eder ve alfabeyi tamamlamaya yönelik kelimeleri önceliklendirir.
-* **Otomatik Odaklama & Hedef Platform:** Chrome, Discord ve Discord Canary gibi pencereleri otomatik odaklar.
-* **Dinamik Güncelleme & Canlı Lisans Altyapısı:** Dahili otomatik güncelleme sistemi ve kesintisiz HWID güvenlik doğrulaması.
+* **Otomatik Oyun Modu (OTO):** Sıra size geldiğinde heceyi otomatik algılar ve kelimeyi sizin yerinize yazar.
+* **Canlı Kelime Önerileri:** Ekranda beliren heceye göre anında tıklayıp kullanabileceğiniz en iyi 10 kelimeyi listeler.
+* **İnsansı Yazım (Anti-Ban):** Doğal yazma hızları, insan benzeri gecikmeler ve isteğe bağlı yazım hatası simülasyonu ile tamamen doğal görünür.
+* **Alfabe Tamamlama Desteği:** Eksik harflerinizi takip ederek can kazanmanız için en doğru kelimeleri öncelikli seçer.
+* **3 Dil Desteği:** Türkçe, İngilizce ve Portekizce sözlük desteği.
+* **Strateji Modları:** İster hızlı ve kısa kelimelerle güvenli oynayın, isterseniz uzun ve nadir kelimelerle şov yapın.
+* **Platform Uyumluluğu:** Chrome, Discord ve diğer Discord sürümleriyle tam uyumlu çalışır.
 
 **⌨️ Kısayol Tuşları:**
-* **F1:** Hızlı Kelime Modu (Kısa kelimeler)
-* **F2:** Optimal Kelime Modu (Dengeli kelimeler)
-* **F3:** Şov Modu (Uzun ve nadir kelimeler)
+* **F1:** Hızlı Mod (Kısa Kelimeler)
+* **F2:** Optimal Mod (Dengeli Kelimeler)
+* **F3:** Şov Modu (Uzun & Gösterişli Kelimeler)
 
-**📥 Kurulum ve Kullanım Talimatı:**
-1. **İndirin:** Bu sayfanın sağındaki **Releases** sekmesine gidin ve en güncel sürümden **`WordBomb.exe`** dosyasını indirin.
-2. **Klasörleme:** İndirdiğiniz dosyayı istediğiniz herhangi bir klasöre taşıyın.
-3. **Başlatın:** `WordBomb.exe` uygulamasını çift tıklayarak çalıştırın.
-4. **Lisans Doğrulama:** Açılan giriş paneline size iletilen lisans anahtarını yapıştırın ve **Giriş Yap** butonuna tıklayın.
+**📥 Kurulum ve Kullanım:**
+1. İndirdiğiniz **`WordBomb.exe`** dosyasını çalıştırın.
+2. Size verilen lisans anahtarını girip giriş yapın.
+3. **Seç** butonuyla ekrandaki hece kutusunu ve sıra alanını seçin.
+4. İster **OTO** modunu açarak arkanıza yaslanın, ister önerilen kelimelere tıklayarak oynayın!
 
 ---
 
 #### 🇬🇧 English Description
-**WordBomb VIP Assistant** is engineered to elevate your WordBomb gaming experience with an advanced word-finding engine, dynamic typing simulation, and cloud-backed license management.
+**WordBomb VIP Assistant** is a smart tool designed to automate your gameplay by detecting syllables, suggesting the best words, or typing them for you automatically.
 
 **✨ Key Features:**
-* **Smart Word Finder:** Instantly filters and identifies the most optimal words based on the active syllable.
-* **Humanoid Typing Engine:** Mimics genuine human keystrokes with randomized latency, variable WPM speeds, and natural error/typo simulation.
-* **Multi-Language Support:** Comprehensive, cloud-synced dictionaries for Turkish (TR), English (EN), and Portuguese (PT).
-* **Multiple Game & Length Modes:** Supports Standard and Word-Chain rules alongside *Fast (F1)*, *Optimal (F2)*, and *Showcase (F3)* playstyles.
-* **Alphabet & Missing Letter Tracker:** Tracks remaining letters in real time and prioritizes words that help finish the alphabet bonus.
-* **Auto-Focus Target Window:** Automatically brings target game windows (Chrome, Discord, Discord Canary) into focus before typing.
-* **Built-in Auto Updater & Cloud Security:** In-app percentage updater and secure HWID-bound license authentication.
+* **Auto-Play Mode (AUTO):** Detects your turn, reads the syllable, and types the winning word automatically.
+* **Live Word Suggestions:** Displays the top 10 best words for the active syllable on a sleek overlay.
+* **Humanoid Typing (Undetectable):** Natural typing speeds, realistic human delays, and optional typo simulation to look 100% legit.
+* **Alphabet Bonus Focus:** Tracks missing letters in real time and prioritizes words that finish your alphabet.
+* **Multi-Language:** Full support for English, Turkish, and Portuguese dictionaries.
+* **Playstyle Modes:** Switch between fast short words for safety or long rare words to show off.
+* **Platform Compatibility:** Works seamlessly with Google Chrome, Discord, and Discord Canary/PTB.
 
 **⌨️ Hotkeys:**
 * **F1:** Fast Mode (Short words)
 * **F2:** Optimal Mode (Balanced words)
-* **F3:** Showcase Mode (Long & rare words)
+* **F3:** Show Mode (Long & impressive words)
 
-**📥 Installation & Usage Guide:**
-1. **Download:** Navigate to the **Releases** section on the right side of this repository and download **`WordBomb.exe`**.
-2. **Folder:** Place the `.exe` file in any folder of your choice.
-3. **Launch:** Run `WordBomb.exe`.
-4. **Authenticate:** Paste your assigned license key into the prompt and click **Login** to start.
+**📥 Setup & How to Use:**
+1. Run **`WordBomb.exe`**.
+2. Enter your license key and log in.
+3. Click the **Select** button to set your in-game syllable box and turn area.
+4. Turn on **AUTO** mode to relax, or simply click on any suggested word to play!
 
 ---
 *Created with ❤️ by **atii***
