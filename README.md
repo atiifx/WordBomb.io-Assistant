@@ -26,49 +26,41 @@ https://www.youtube.com/watch?v=0lzLGY8Q-1U
 **WordBomb VIP Assistant**, oyununuzu otomatikleştirip her turda en doğru kelimeleri sizin yerinize yazan veya öneren akıllı bir yardımcı yazılımdır.
 
 **✨ Öne Çıkan Özellikler:**
-* **Otomatik Oyun Modu (OTO):** Sıra size geldiğinde heceyi otomatik algılar ve kelimeyi sizin yerinize yazar.
-* **Canlı Kelime Önerileri:** Ekranda beliren heceye göre anında tıklayıp kullanabileceğiniz en iyi 10 kelimeyi listeler.
-* **İnsansı Yazım (Anti-Ban):** Doğal yazma hızları, insan benzeri gecikmeler ve isteğe bağlı yazım hatası simülasyonu ile tamamen doğal görünür.
-* **Alfabe Tamamlama Desteği:** Eksik harflerinizi takip ederek can kazanmanız için en doğru kelimeleri öncelikli seçer.
-* **3 Dil Desteği:** Türkçe, İngilizce ve Portekizce sözlük desteği.
-* **Strateji Modları:** İster hızlı ve kısa kelimelerle güvenli oynayın, isterseniz uzun ve nadir kelimelerle şov yapın.
-* **Platform Uyumluluğu:** Chrome, Discord ve diğer Discord sürümleriyle tam uyumlu çalışır.
-
-**⌨️ Kısayol Tuşları:**
-* **F1:** Hızlı Mod (Kısa Kelimeler)
-* **F2:** Optimal Mod (Dengeli Kelimeler)
-* **F3:** Şov Modu (Uzun & Gösterişli Kelimeler)
+* **Otomatik Oyun Modu (OTO):** Sıra size geldiğinde heceyi anında algılar ve kelimeyi otomatik olarak oyuna yazar.
+* **Canlı Kelime Önerileri (💡):** Ekranda beliren heceye göre anında tıklayıp kullanabileceğiniz en iyi 10 kelimeyi listeleyen şık açılır panel.
+* **Özel Harf Aralığı Belirleme:** Çift başlıklı kaydırma çubuğu ile kelimelerin minimum ve maksimum harf uzunluğunu (1–45 harf) tamamen dilediğiniz gibi ayarlayın.
+* **Eksik Harf & Alfabe Kontrolü:** İsteğe bağlı olarak açıp kapatabileceğiniz sistemle, can kazanmak için eksik harflerinizi tamamlayacak kelimeleri önceliklendirin.
+* **İnsansı Yazım (Anti-Ban):** Doğal yazma hızları, insan benzeri tepki gecikmeleri ve isteğe bağlı yazım hatası (typo) simülasyonu ile tamamen doğal görünüm.
+* **3 Farklı Dil Desteği:** Türkçe, İngilizce ve Portekizce sözlük desteği.
+* **Çoklu Oyun Modu:** Orijinal ve Zincir Kelime modlarıyla tam uyumlu.
+* **Platform Desteği:** Google Chrome, Discord, Discord PTB ve Discord Canary ile sorunsuz otomatik odaklama.
 
 **📥 Kurulum ve Kullanım:**
 1. İndirdiğiniz **`WordBomb.exe`** dosyasını çalıştırın.
-2. Size verilen lisans anahtarını girip giriş yapın.
-3. **Seç** butonuyla ekrandaki hece kutusunu ve sıra alanını seçin.
-4. İster **OTO** modunu açarak arkanıza yaslanın, ister önerilen kelimelere tıklayarak oynayın!
+2. Size iletilen lisans anahtarını girip giriş yapın.
+3. **🎯 Seç** butonuna tıklayarak ekrandaki hece kutusunu ve ardından sıra göstergesini seçin.
+4. İster **OTO** anahtarını açarak arkanıza yaslanın, ister öneri listesindeki kelimelere tıklayarak oynayın!
 
 ---
 
 #### 🇬🇧 English Description
-**WordBomb VIP Assistant** is a smart tool designed to automate your gameplay by detecting syllables, suggesting the best words, or typing them for you automatically.
+**WordBomb VIP Assistant** is a smart automation tool designed to detect in-game syllables, suggest top-tier words, or type winning words for you automatically.
 
 **✨ Key Features:**
-* **Auto-Play Mode (AUTO):** Detects your turn, reads the syllable, and types the winning word automatically.
-* **Live Word Suggestions:** Displays the top 10 best words for the active syllable on a sleek overlay.
-* **Humanoid Typing (Undetectable):** Natural typing speeds, realistic human delays, and optional typo simulation to look 100% legit.
-* **Alphabet Bonus Focus:** Tracks missing letters in real time and prioritizes words that finish your alphabet.
-* **Multi-Language:** Full support for English, Turkish, and Portuguese dictionaries.
-* **Playstyle Modes:** Switch between fast short words for safety or long rare words to show off.
-* **Platform Compatibility:** Works seamlessly with Google Chrome, Discord, and Discord Canary/PTB.
-
-**⌨️ Hotkeys:**
-* **F1:** Fast Mode (Short words)
-* **F2:** Optimal Mode (Balanced words)
-* **F3:** Show Mode (Long & impressive words)
+* **Auto-Play Mode (AUTO):** Detects your turn, reads the syllable, and types the word directly into the game.
+* **Live Word Suggestions (💡):** Displays a floating popup with the top 10 best words for the active syllable on every turn.
+* **Custom Word Length Range:** Use the dual-thumb slider to define your preferred minimum and maximum word lengths (1–45 letters).
+* **Missing Letter & Alphabet Bonus Toggle:** Enable or disable alphabet completion tracking to prioritize words that grant extra lives.
+* **Humanoid Typing (Undetectable):** Features human keypress speeds, randomized natural reaction delays, and realistic typo simulation.
+* **Multi-Language Support:** Comprehensive dictionaries for English, Turkish, and Portuguese.
+* **Game Modes:** Fully compatible with Classic and Word-Chain game rules.
+* **Target Platforms:** Automatic window focus for Google Chrome, Discord, Discord PTB, and Discord Canary.
 
 **📥 Setup & How to Use:**
 1. Run **`WordBomb.exe`**.
-2. Enter your license key and log in.
-3. Click the **Select** button to set your in-game syllable box and turn area.
-4. Turn on **AUTO** mode to relax, or simply click on any suggested word to play!
+2. Enter your assigned license key and log in.
+3. Click the **🎯 Select** button to define your in-game syllable box and turn area.
+4. Turn on **AUTO** mode to automate your game, or simply click any suggested word to play!
 
 ---
 💬 **Discord Destek / Support:** `fdsaqwex`  
