@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=0lzLGY8Q-1U
 * **Özel Harf Aralığı Belirleme:** Çift başlıklı kaydırma çubuğu ile kelimelerin minimum ve maksimum harf uzunluğunu (1–45 harf) tamamen dilediğiniz gibi ayarlayın.
 * **Eksik Harf & Alfabe Kontrolü:** İsteğe bağlı olarak açıp kapatabileceğiniz sistemle, can kazanmak için eksik harflerinizi tamamlayacak kelimeleri önceliklendirin.
 * **İnsansı Yazım (Anti-Ban):** Doğal yazma hızları, insan benzeri tepki gecikmeleri ve isteğe bağlı yazım hatası (typo) simülasyonu ile tamamen doğal görünüm.
-* **3 Farklı Dil Desteği:** Türkçe, İngilizce ve Portekizce sözlük desteği.
+* **Çoklu Dil Desteği:** Türkçe, İngilizce, Portekizce, Almanca, İspanyolca ve Fransızca olmak üzere 6 farklı kapsamlı sözlük desteği.
 * **Çoklu Oyun Modu:** Orijinal ve Zincir Kelime modlarıyla tam uyumlu.
 * **Platform Desteği:** Google Chrome, Discord, Discord PTB ve Discord Canary ile sorunsuz otomatik odaklama.
 
@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=0lzLGY8Q-1U
 * **Custom Word Length Range:** Use the dual-thumb slider to define your preferred minimum and maximum word lengths (1–45 letters).
 * **Missing Letter & Alphabet Bonus Toggle:** Enable or disable alphabet completion tracking to prioritize words that grant extra lives.
 * **Humanoid Typing (Undetectable):** Features human keypress speeds, randomized natural reaction delays, and realistic typo simulation.
-* **Multi-Language Support:** Comprehensive dictionaries for English, Turkish, and Portuguese.
+* **Multi-Language Support:** Comprehensive dictionaries for Turkish, English, Portuguese, German, Spanish, and French.
 * **Game Modes:** Fully compatible with Classic and Word-Chain game rules.
 * **Target Platforms:** Automatic window focus for Google Chrome, Discord, Discord PTB, and Discord Canary.
 
